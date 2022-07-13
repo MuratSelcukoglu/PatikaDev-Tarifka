@@ -25,7 +25,7 @@ react-native run-ios
 ## Screens
 
 <div>
-<img src="./src/assets/1.png" width="350" height="200" alt="Screens">
-<img src="./src/assets/2.png" width="350" height="200" alt="Screens">
-<img src="./src/assets/3.png" width="350" height="200" alt="Screens">
+<img src="./src/assets/1.png" width="350"  alt="Screens">
+<img src="./src/assets/2.png" width="350"  alt="Screens">
+<img src="./src/assets/3.png" width="350"  alt="Screens">
 </div>
